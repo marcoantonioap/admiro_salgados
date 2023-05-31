@@ -1,0 +1,23 @@
+#div_screen_func{
+    -fx-background-color: linear-gradient(to top, #ffffff 60%, #ffffff 0%, da4e41 40%, da4e41 0%);
+}
+
+#div_form_func{
+    -fx-background-color: #f2f2f2;
+    -fx-border-width: 1.2px;
+    -fx-border-style: solid;
+    -fx-border-color:  black;
+    -fx-border-radius: 15px;
+}
+
+#div_screen_func TextField{
+    -fx-background-color: #f2f2f2;
+    -fx-border-width: 1px;
+    -fx-border-style: solid;
+    -fx-border-color:  black;
+    -fx-border-radius: 5px;
+}
+#div_screen_func label{
+    color: #969696;
+}
+
